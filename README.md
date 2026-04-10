@@ -1,6 +1,6 @@
 # Airport database analysis
 
-This project presents an analysis of an airline database using SQL techniques. The goal is to extract meaningful insights related to flight operations, passenger behavior, revenue and operational efficiency. The study is divided into 3 main parts: flights, passengers and revenue analysis.
+This project presents an analysis of an airport database using SQL techniques. The goal is to extract meaningful insights related to flight operations, passenger behavior, revenue and operational efficiency. The study is divided into 3 main parts: flights, passengers and revenue analysis.
 
 The structure of this repostitory is as follows:
 - in the catalog **SQL files** you can find raw SQL code for the 3 parts of the analysis mentioned above.
